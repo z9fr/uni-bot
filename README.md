@@ -2,7 +2,7 @@
 
 a simple bot to remind me uni stuff
 
-[help](demo/help.png)
+![help](demo/help.png)
 
 ## Description
 
