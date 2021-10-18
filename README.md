@@ -1,6 +1,6 @@
 # Uni-bot
 
-a simple bot to remind me uni stuff
+a simple bot for uni stuff
 
 ![help](demo/help.png)
 
@@ -19,3 +19,5 @@ the bot will scrape though the dle and gets available events and also i can view
 ## Help
 
 if you have any issue hmu 
+
+![help](demo/demo.png)
