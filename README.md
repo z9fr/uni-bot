@@ -16,18 +16,6 @@ the bot will scrape though the dle and gets available events and also i can view
 * Add token for the Teams in commands/funtions/teams.js
 * Add your bot token in config.json
 
-
-### Executing program
-
-* install
-```
-npm install 
-```
-* How to run the program
-```
-node . 
-```
-
 ## Help
 
 if you have any issue hmu 
